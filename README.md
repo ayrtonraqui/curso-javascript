@@ -1,4 +1,4 @@
-# Jascript
+# Javascript
 - Lenguage interpretado: ya que el navegador lee línea por línea el código
 - Orientado a objetos: utiliza objetos
 - Débilmente tipado: permite operaciones entre diferentes tipos de datos
